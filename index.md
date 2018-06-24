@@ -5,7 +5,7 @@
 
 关键技术
 
-1、python 基本知识\n
+1、python 基本知识
 
 2、python selenium web 自动化
 
