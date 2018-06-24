@@ -16,15 +16,19 @@
 
 ### 友情链接
 
-[google学术搜索](https://xue.glgoo.net/)
+[google学术搜索](https://xue.glgoo.net/) 
 
-[SmartDSP实验室](http://xmu-smartdsp.github.io/)
+[SmartDSP实验室](http://xmu-smartdsp.github.io/) 
 
-[百度搜索](http://www.baidu.com)
+[百度搜索](http://www.baidu.com) 
 
 [GitHub 首页](https://github.com/saintifly)
 
+[阿里云](https://ecs.console.aliyun.com/#/server/region/cn-shenzhen)
+
 [电影天堂](http://www.dytt8.net/)
+
+[W3sshool Web技术](http://www.w3school.com.cn/)
 
 ![个人图片](https://github.com/saintifly/zxh.github.io/raw/master/Screenshots/timg.jpg)
 
