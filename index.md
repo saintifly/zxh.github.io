@@ -17,6 +17,9 @@
 ### 友情链接
 
 [google学术搜索](https://xue.glgoo.net/)
+[SmartDSP实验室](http://xmu-smartdsp.github.io/)
+[百度搜索](http://www.baidu.com)
+[Github 本地路径](C:\Users\zhengxianhui\AppData\Local\GitHubDesktop\GitHubDesktop.exe)
 
 
 You can use the [editor on GitHub](https://github.com/saintifly/zxh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
