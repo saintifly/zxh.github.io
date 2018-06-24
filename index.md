@@ -6,7 +6,9 @@
 关键技术
 
 1、python 基本知识
+
 2、python selenium web 自动化
+
 3、python django：
 
 You can use the [editor on GitHub](https://github.com/saintifly/zxh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
