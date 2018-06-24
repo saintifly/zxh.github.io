@@ -11,6 +11,8 @@
 
 3、python django：
 
+4、深度学习网站：[SmartDSP实验室](http://xmu-smartdsp.github.io/)  http://xmu-smartdsp.github.io/
+
 You can use the [editor on GitHub](https://github.com/saintifly/zxh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
