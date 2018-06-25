@@ -5,11 +5,7 @@
 
 关键技术
 
-1、python 基本知识
-
-2、python selenium web 自动化
-
-3、python django：
+1、python 基本知识 2、python selenium web 自动化 3、python django 4、图像处理
 
 4、深度学习网站：[SmartDSP实验室](http://xmu-smartdsp.github.io/)  http://xmu-smartdsp.github.io/
 
@@ -31,6 +27,16 @@
 [W3sshool Web技术](http://www.w3school.com.cn/)
 
 ![个人图片](https://github.com/saintifly/zxh.github.io/raw/master/Screenshots/timg.jpg)
+
+
+### 论文专利
+
+1、Single-Image-Based Rain and Snow Removal using Multi-Guided Filter
+
+2、Single image rain and snow removal via guided L0 smoothing filter
+
+3、一种基于多次引导滤波的图像去雨雪方法
+
 
 You can use the [editor on GitHub](https://github.com/saintifly/zxh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
