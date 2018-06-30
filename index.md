@@ -2,7 +2,7 @@
 
 ### 个人介绍
 
-关键技术
+<span style="color: red"> 关键技术 </span>
 
 1、python 基本知识 2、python selenium web 自动化 3、python django 4、图像处理
 
