@@ -42,6 +42,9 @@
 
 3、python开发技术
 
+### 打赏
+
+![个人图片](https://github.com/saintifly/zxh.github.io/raw/master/Screenshots/qiong.jpg)
 
 You can use the [editor on GitHub](https://github.com/saintifly/zxh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
