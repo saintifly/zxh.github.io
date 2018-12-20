@@ -42,6 +42,50 @@
 
 3、python开发技术
 
+### 书箱
+
+《博弈论 : 日常生活中的博弈策略》--2014
+
+
+《数字图像处理（第三版）》--waiting
+
+《Python核心编程（第二版）》--2015
+
+《平凡的世界（全三册）》--waiting
+
+
+
+《机器学习 by周志华》--reading
+
+《深度学习》AI圣经--waiting
+
+《C++ Primer 中文版本》--2016
+
+《TesnorFlow 实战》
+
+《The django book 2.0 中文版》电子书--2018
+
+
+《Selenium 2 自动化测试实战》 基于python语言--2016
+
+《Powershell　实战指南》--2017
+
+《C Primer Plus 第五版 中文版》--2015
+
+《C和指针》--2015
+
+《数据结构（C语言版）》--abondon
+
+《Java编程思想 think in java 第4版》--2018
+
+《硅谷最受欢迎的情商课》--2015
+
+《Google软件测试之道》--2015、2018
+
+《硝烟中的Scrum and XP》---2014
+
+
+
 ### 打赏
 
 ![个人图片](https://github.com/saintifly/zxh.github.io/raw/master/Screenshots/qiong.jpg)
