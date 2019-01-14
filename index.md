@@ -84,6 +84,7 @@
 
 《硝烟中的Scrum and XP》---2014
 
+《go 语言圣经》---reading
 
 
 ### 打赏
